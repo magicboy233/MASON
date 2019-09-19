@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/Unity 3D/Hands/Assets/LeapMotion/Core/Examples/Leap Hands Demo (Desktop).unity
+  isLoaded: 1
+  isActive: 1
